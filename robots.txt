@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /admission-enquiry.html
+Disallow: /admission_form.html
